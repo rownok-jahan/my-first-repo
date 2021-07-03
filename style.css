@@ -3,3 +3,8 @@
     color: white;
     text-align: center;
 }
+
+img{
+    border: 3px solid aqua;
+    border-radius: 5px;
+}
